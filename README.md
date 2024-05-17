@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 😄
-Meu nome é Maria Eduarda Alves Ferrira
+- Meu nome é Maria Eduarda Alves Ferrira
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
