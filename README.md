@@ -1,4 +1,4 @@
--Boas vindas ao meu perfil 😄
+_Boas vindas ao meu perfil 😄_
 - Meu nome é Maria Eduarda Alves Ferrira
 
 - Estou estudando na Alura
